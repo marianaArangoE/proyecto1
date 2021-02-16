@@ -1,0 +1,2 @@
+el nombre del estudiante es alejandro
+ha obtenido un promedio de 4
