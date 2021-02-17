@@ -5,7 +5,7 @@ function promedio1 ( nota_uno,nota_dos,nota_tres){
 }
 // forma numero dos de una función
 let promedio2 = (nota_uno, nota_dos, nota_tres)=> {
-    /* noon bloxking: es para suscitar el tiempo de respuesta*/setTimeout(function(){
+    /* noon bloxking: es para suscitar el tiempo de respuesta*/ setTimeout(function(){
     let resultado= (nota_uno, nota_tres,nota_dos)/3
     console.log("el promedio es: " + resultado)
 },2000)
